@@ -1,0 +1,20 @@
+body {
+	font-family: Arial;
+	background-color: lightgrey;
+	padding:1px;}
+h1 {
+	color: purple;}
+p#intro{
+	color: white;
+	border: 10px solid black;
+	background-color: red;
+	padding: inherit;
+	font-size: 125%;}
+p b{
+	color:black;
+	font-size: 50%;}
+
+i {
+		color:red;
+	font-size:125%;}
+		

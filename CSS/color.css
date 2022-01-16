@@ -1,0 +1,35 @@
+/* FOREGROUND COLOR */
+/* RGB VALUES*/
+b{
+	color: rgb(50,200,150);}
+/* HEX CODE */
+i{
+color: #ee3e80;}
+/* COLOR NAME */
+em{
+color:darkblue;}
+.gen{
+	font-family: Times New Roman, arial;
+	color:white;
+	text-align: center;
+	padding: 1px;
+margin: 1;}
+.primera{
+background-color:darkcyan;
+/*OPACITY*/
+opacity: 0.25;}
+.segunda{
+	/*OPACITY USING RGBA*/
+background-color: rgba(238,62,128,0.5);
+}
+p{
+background-color:white;}
+#titulo{
+	background-color: #efefef;
+	color: #665544;
+	text-align: right;
+border: 2px solid #665544;}
+
+div{
+	border: 2px solid #d7d7d7;
+background-color: rgb(200,200,200);}
