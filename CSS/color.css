@@ -23,7 +23,9 @@ opacity: 0.25;}
 background-color: rgba(238,62,128,0.5);
 }
 p{
-background-color:white;}
+background-color:white;
+text-shadow: 3px;
+}
 #titulo{
 	background-color: #efefef;
 	color: #665544;
